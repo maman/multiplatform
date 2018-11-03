@@ -2,7 +2,7 @@
 
 This repo contains universal react component that can renders to both web & native.
 
-Uses babel to perform wizardry. See `[babel/babel-multiplatform.js](babel/babel-multiplatform.js)` for details.
+Uses babel to perform wizardry. See [babel-multiplatform.js](babel/babel-multiplatform.js) for details.
 
 ## Running examples
 
@@ -14,4 +14,4 @@ multiplatform$ yarn start:rn # Run react-native packager
 multiplatform$ yarn start:web # Run local development server
 ```
 
-When the app opens on emulator & opened in the browser, make some changes to `[App.js](App.js)` and see the results live.
+When the app opens on emulator & opened in the browser, make some changes to [App.js](App.js) and see the results live.

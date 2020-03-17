@@ -19,6 +19,6 @@
   "devDependencies": {
     "babel-cli": "6",
     "babel-preset-react-native": "4.0.1",
-    "parcel-bundler": "1.9.6"
+    "parcel-bundler": "1.10.0"
   }
 }
